@@ -1,5 +1,5 @@
-# Algorithms Python Library
+[![tests](https://github.com/kellyankrah/algorithms-python-library/actions/workflows/tests.yml/badge.svg)](https://github.com/kellyankrah/algorithms-python-library/actions/workflows/tests.yml)
 
-![tests](https://github.com/kellyankrah/algorithms-python-library/actions/workflows/tests.yml/badge.svg)
+# Algorithms Python Library
 
 (Upgraded README with badge + complexity table)
